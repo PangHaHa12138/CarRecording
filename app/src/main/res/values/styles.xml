@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="smallButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconGravity">textTop</item>
+        <item name="iconTint">@color/white</item>
+        <item name="android:inset">0dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="iconPadding">0dp</item>
+    </style>
+
+    <style name="smallButton_light" parent="smallButton">
+        <item name="iconTint">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="MyCheckBox" parent="Widget.MaterialComponents.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/primaryColor</item>
+    </style>
+
+    <style name="MyFloatBtnStyle">
+        <item name="backgroundTint">@color/primaryColor</item>
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!--use in land ori -->
+    <style name="smallButton_on_light_bg" parent="smallButton">
+        <item name="iconTint">@color/primaryColor</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="textStyle_on_light_bg">
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textSize">@dimen/TOP_TITLE_TEXT_SIZE</item>
+    </style>
+
+    <style name="roundBtnStyle" parent="Widget.MaterialComponents.Button">
+        <item name="iconGravity">textTop</item>
+        <item name="iconTint">@color/white</item>
+        <item name="android:inset">0dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="iconPadding">0dp</item>
+    </style>
+
+    <style name="timerTextStyle">
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textSize">@dimen/RECORD_TIME_TEXT_SIZE</item>
+    </style>
+</resources>

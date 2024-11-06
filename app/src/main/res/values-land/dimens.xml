@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //屏幕显示surfaceView的宽高
+    <dimen name="GL_SURFACE_VIEW_WIDTH">1280px</dimen>
+    <dimen name="GL_SURFACE_VIEW_HEIGHT">960px</dimen>
+
+    <dimen name="VIDEO_WIDTH">1920px</dimen>
+    <dimen name="VIDEO_HEIGHT">1080px</dimen>
+
+    <dimen name="INFO_TEXT_SIZE">16sp</dimen>
+
+    <dimen name="AUTHOR_TEXT_SIZE">16sp</dimen>
+    <dimen name="AUTHOR_TEXT_SIZE_SECONDARY">10sp</dimen>
+
+    <dimen name="STATE_TEXT_SIZE">24sp</dimen>
+
+    <dimen name="SCREEN_TEXT_PADDING">10dp</dimen>
+
+    <dimen name="TOP_TITLE_TEXT_SIZE">10sp</dimen>
+    <dimen name="RECORD_TIME_TEXT_SIZE">16sp</dimen>
+    <item name="img_rate" type="dimen" format="float">0.18</item>
+    <item name="img_inset_rate" type="dimen" format="float">0.05</item>
+
+    <!--use in Layout-->
+    <!--    <dimen name="GL_VIEW_WIDTH">720px</dimen>-->
+    <!--    <dimen name="GL_VIEW_HEIGHT">480px</dimen>-->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="FILE_MAX_NUM">12</integer>//最多10个文件
+    <integer name="RECORDING_DURATION">1200</integer>//单位秒
+    <integer name="BIT_RATE">8000000</integer>//码率
+
+</resources>

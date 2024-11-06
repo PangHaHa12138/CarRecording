@@ -1,0 +1,25 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="my_background">#e0e0e0</color>
+
+    <color name="primaryColor">#42a5f5</color>
+    <color name="primaryLightColor">#80d6ff</color>
+    <color name="primaryDarkColor">#0077c2</color>
+    <color name="secondaryColor">#64b5f6</color>
+    <color name="secondaryLightColor">#9be7ff</color>
+    <color name="secondaryDarkColor">#2286c3</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="primaryTextColorOnLightBackGround">#1C1B1F</color>
+    <color name="secondTextColorOnLightBackGround">#79747E</color>
+    <color name="my_dark_background">#171717</color>
+    <color name="primaryColor_tr">#2242a5f5</color>
+    <color name="video_state_backgroundColor">#44313033</color>
+    <color name="author_text_color">#ccFF9800</color>
+    <color name="author_text_color_secondary">#88FF9800</color>
+
+    <color name="information_text_color">#aaeeeeee</color>
+    <color name="author_background_color">#7d42a5f5</color>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car-Recording</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repo_dir_name">1024</string>
+</resources>

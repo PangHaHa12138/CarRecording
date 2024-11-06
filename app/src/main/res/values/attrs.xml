@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MenuFrameLayout">
+        <attr name="open_rate" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="MyRoundImageView">
+        <attr name="inset_rate" format="float"/>
+        <attr name="inset_bg_color" format="color"/>
+        <attr name="imgSrc" format="reference"/>
+    </declare-styleable>
+</resources>
