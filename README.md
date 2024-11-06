@@ -35,13 +35,14 @@
 ## 截图
 
 ##### 横屏录制中
-![横屏录制中](https://gitee.com/developergu/car-recording/raw/master/screen_shot/Screenshot_2023-03-16-18-13-25-12.png "横屏录制中")
+![横屏录制中](https://github.com/PangHaHa12138/CarRecording/blob/main/screen_shot/Screenshot_2023-03-16-18-13-25-12.png "横屏录制中")
 
 ##### 横屏预览
-![横屏预览中](https://gitee.com/developergu/car-recording/raw/master/screen_shot/Screenshot_2023-03-16-18-17-57-30.png "横屏预览中")
+![横屏预览中](https://github.com/PangHaHa12138/CarRecording/blob/main/screen_shot/Screenshot_2023-03-16-18-17-57-30.png "横屏预览中")
 
 ##### 视频操作界面
-![视频操作界面](https://gitee.com/developergu/car-recording/raw/master/screen_shot/Screenshot_2023-03-16-18-13-48-71.png "视频操作界面")
+![视频操作界面](https://github.com/PangHaHa12138/CarRecording/blob/main/screen_shot/Screenshot_2023-03-16-18-13-48-71.png "视频操作界面")
 
 ##### 竖屏
-![竖屏](https://gitee.com/developergu/car-recording/raw/master/screen_shot/Screenshot_2023-03-16-18-14-39-10.png "竖屏")
+![竖屏](https://github.com/PangHaHa12138/CarRecording/blob/main/screen_shot/Screenshot_2023-03-16-18-14-39-10.png "竖屏")
+
